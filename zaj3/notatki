@@ -1,1 +1,11 @@
-zajecia3
+Zajęcia 3. Gromadzenie i analiza wymagań.		06.03.25
+
+2 wymagania funkcjonalne dla systemu text mining w języku R, który analizuje dane tekstowe i tworzy chmurę słów:
+analiza częstotliwości słów
+wizualizacja wyników analizy w postaci chmury słów
+
+2 niefunkcjonalne wymagania dla systemu text mining w języku R, który analizuje dane tekstowe i tworzy chmurę słów:
+poprawność przeprowadzonej analizy
+łatwość użytkowania
+
+Interpretacja rozwiązania zadania 3  w qdap i bez qdap jest bardzo podobna. Widoczne są różnice w detalach analizy np. brak ‘ w rozwiązaniu w qdap.
