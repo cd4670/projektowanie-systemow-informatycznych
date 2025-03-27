@@ -1,1 +1,13 @@
+Zajęcia 6.  Dokumentacja i specyfikacja wymagań.		27.03.25
+
+Jako: Analityk danych w dziale Customer Experience
+Chcę: Przeanalizować opinie klientów dotyczące ich doświadczeń z danym produktem
+Aby: Zidentyfikować obszary wymagające poprawy, co może zwiększyć satysfakcję klientów tym samym zwiększyć zysk firmy
+Kryteria akceptacji: 
+Użytkownik może wczytać plik tekstowy z opiniami klientów.
+Skrypt przeprowadza analizę sentymentu za pomocą różnych słowników.
+Skrypt generuje chmurę słów.
+Skrypt generuje wykresy skumulowanego sentymentu i porównuje wyniki z różnych słowników.
+Użytkownik może zidentyfikować dominujące sentymenty w opiniach klientów w celu dokonania analizy.
+
 
