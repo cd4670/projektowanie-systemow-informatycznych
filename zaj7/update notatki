@@ -1,0 +1,5 @@
+Zajęcia 7. Reproducible research.		3.04.25
+
+Jakie elementy dokumentacji powinny znaleźć się w projekcie, aby umożliwić jego odtworzenie przez inną osobę?
+
+Wszystkie skrypty analityczne oraz oryginalne dane powinny być udostępnione. Narzędzia, biblioteki i wersje pakietów powinny być zdefiniowane. Konieczny jest opis założeń, kroków przetwarzania, metryk i sposobu interpretacji wyników. Wszystkie skrypty analityczne powinny być czytelne oraz modularne. 
