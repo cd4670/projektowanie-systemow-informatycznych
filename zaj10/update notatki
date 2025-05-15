@@ -1,1 +1,27 @@
+Zajęcia 10. Metodyki Agile i Waterfall_cz2 		15.05.25
+
+Tablica Kanban dla prostego projektu dotyczącego Topic modelingu:
+
+TO DO
+Zebranie danych (np. pobranie recenzji)
+Czyszczenie danych (np. usuwanie znaków specjalnych)
+Tokenizacja tekstu
+
+IN BUILT
+Wybór modelu topic modelingu
+Instalacja wymaganych bibliotek
+
+TO TEST
+Wizualizacja wyników
+Ocena jakości, efektywności modelu
+
+DONE
+Zdefiniowanie celu analizy (np. identyfikacja tematów w recenzjach produktów)
+
+
+
+
+
+
+
 
