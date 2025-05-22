@@ -1,1 +1,11 @@
+Zajęcia 12. Podejście TFIDF w algorytmach data science. 		22.05.25
+
+
+Zastosowanie podejścia TF-IDF może poprawić wyniki w:
+analizie sentymentu - w modelach ML, nie w słownikowych (TF-IDF pozwala nadać większą wagę słowom bardziej charakterystycznym dla danego dokumentu, może poprawić dokładność klasyfikacji emocji)
+klastrowaniu k-means (TF-IDF zmniejsza wpływ często występujących, ale mniej informacyjnych słów (np. „the”), co sprawia, że k-means tworzy bardziej znaczące klastry dokumentów o podobnej tematyce)
+
+Zastosowanie podejścia TF-IDF może zaszkodzić w:
+topic modeling - metoda LDA (TF-IDF zniekształca rozkład prawdopodobieństw, na których opiera się LDA, co pogarsza jakość tematów i stabilność modelu)
+asocjacje - korelacja Pearsona (TF-IDF zmienia dane liczbowo i może zaburzyć prostą interpretację zależności, korelacja Pearsona oczekuje surowych lub wystandaryzowanych danych liczbowych, a nie przekształceń takich jak TF-IDF)
 
