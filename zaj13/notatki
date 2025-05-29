@@ -1,1 +1,10 @@
+Zajęcia 13. Klasyfikacja. 	29.05.25
+
+Najważniejsze metryki dla oceny modelu klasyfikacji:
+
+Accuracy - odsetek wszystkich poprawnie zaklasyfikowanych przykładów.
+Precision (PPV) - spośród wszystkich przykładów przewidzianych jako „tak” (positive), ile rzeczywiście było „tak”.
+Recall (Sensitivity / TPR) - spośród wszystkich rzeczywistych przypadków „tak”, ile model poprawnie wykrył.
+Specificity (TNR) - spośród wszystkich rzeczywistych „nie”, ile model poprawnie odrzucił.
+Negative Predictive Value - spośród wszystkich przewidzianych jako „nie”, ile faktycznie było „nie”.
 
